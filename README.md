@@ -14,6 +14,9 @@
 或者机器学习？
 
 Optimization for Data Science
+
 Advanced Learning For Text and Graph Data
+
 Data Camp
+
 Structured Data : Learning and Prediction
