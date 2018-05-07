@@ -13,10 +13,10 @@
 
 或者机器学习？
 
-Optimization for Data Science
+Optimization for Data Science(数据科学的优化)
 
-Advanced Learning For Text and Graph Data
+Advanced Learning For Text and Graph Data(针对文本和图形数据的高级学习)
 
-Data Camp
+Data Camp(数据营)
 
-Structured Data : Learning and Prediction
+Structured Data : Learning and Prediction(结构化数据：学习和预测)
