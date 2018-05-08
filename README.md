@@ -20,3 +20,5 @@ Advanced Learning For Text and Graph Data(针对文本和图形数据的高级�
 Data Camp(数据营)
 
 Structured Data : Learning and Prediction(结构化数据：学习和预测)
+
+在Python中实现推荐系统需要用到的数据集存在Git项目的Files文件夹里，名为ml-100k
