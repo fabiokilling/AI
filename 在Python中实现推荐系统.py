@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue May  8 11:48:05 2018
+
+@author: ArcherX
+"""
+#需要用到的数据集存在Git项目的Files文件夹里，名为ml-100k
 import numpy as np
 import pandas as pd
 header = ['user_id', 'item_id', 'rating', 'timestamp']
