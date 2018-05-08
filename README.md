@@ -23,9 +23,12 @@ Structured Data : Learning and Prediction(结构化数据：学习和预测)
 
 在Python中实现推荐系统需要用到的数据集存在Git项目的Files文件夹里，名为ml-100k
 
+(出现DeprecationWarning的解决办法可参考DeprecationWarning.py)
+
 报错信息：
 
 DeprecationWarning: 
+
 This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved.
 
 Also note that the interface of the new CV iterators are different from that of this module.
